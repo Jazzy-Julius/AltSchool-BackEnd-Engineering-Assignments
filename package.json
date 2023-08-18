@@ -1,0 +1,12 @@
+{
+  "name": "week3-assignment",
+  "version": "1.0.1",
+  "description": "A simple server and API",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
